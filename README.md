@@ -83,6 +83,7 @@ Privacy-Mask-OpenCV/
 └── images/                # Image directory
     ├── input.jpg             # Test Input
     └── result.jpg            # Test Output
+```
 
 ---
 
