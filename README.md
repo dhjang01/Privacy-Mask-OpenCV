@@ -56,6 +56,7 @@ Run the `main.py` file to start the program.
 
 ```bash
 python main.py
+```
 
 ---
 
